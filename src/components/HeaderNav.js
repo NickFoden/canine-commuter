@@ -34,7 +34,7 @@ class HeaderNav extends Component {
           <Navbar.Container position="end">
             <Navbar.Item dropdown hoverable>
               <Navbar.Link>Options</Navbar.Link>
-              <Navbar.Dropdown right boxed>
+              <Navbar.Dropdown boxed>
                 <Navbar.Item>
                   <Link to="/account">Account</Link>
                 </Navbar.Item>
